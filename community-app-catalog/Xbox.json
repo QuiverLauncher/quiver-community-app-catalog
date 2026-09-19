@@ -1,7 +1,7 @@
 {
   "name": "Xbox",
   "description": "Xbox platform ports and recreations",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/542b9ce5413bbceea136fecb513df4c3.png",
   "preferredTagFilters": [
     "recomp",
@@ -321,6 +321,39 @@
         "recomp",
         "x360",
         "banjo",
+        "rexglue",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Tony Hawk's Project 8",
+      "project": "Project8Recomp",
+      "repository": "theokyr/Project8Recomp",
+      "folderName": "TonyHawksProject8-Project8Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/b1cc074da618ac7d0807bf126726fda3.png",
+      "tags": [
+        "recomp",
+        "x360",
+        "tony hawk",
+        "project 8",
+        "rexglue",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Eternal Sonata",
+      "project": "EternalSonataReprise",
+      "repository": "birabittoh/EternalSonataReprise",
+      "folderName": "EternalSonata-EternalSonataReprise",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/ff8c46249e595208862a91ed5bb6e372.jpg",
+      "tags": [
+        "recomp",
+        "x360",
+        "eternal sonata",
         "rexglue",
         "xbox",
         "xbox 360",
