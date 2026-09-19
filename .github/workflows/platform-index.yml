@@ -21,6 +21,8 @@ concurrency:
 
 jobs:
   publish:
+    # Forks may retain this workflow, but must never publish generated commits.
+    if: github.repository == 'tgeorgiadis/quiver-community-app-catalog'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     permissions:
