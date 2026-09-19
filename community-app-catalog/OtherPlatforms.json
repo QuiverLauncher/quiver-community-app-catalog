@@ -24,12 +24,7 @@
       "repository": "AliveTeam/alive_reversing",
       "folderName": "OddworldAbesOddyseeAndAbesExoddus-RELIVE",
       "appIconUrl": "https://raw.githubusercontent.com/AliveTeam/alive_reversing/refs/heads/master/Source/relive/app.ico",
-      "tags": [
-        "decomp",
-        "pc",
-        "oddworld",
-        "decompilation"
-      ]
+      "tags": ["decomp", "pc", "oddworld", "decompilation"]
     },
     {
       "name": "Sonic the Hedgehog (2013)",
@@ -69,13 +64,7 @@
       "repository": "Erick194/DoomRPG-RE",
       "folderName": "DoomRPG-DoomRPGRE",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/e4cab6f39f345e82e1d6b33090e727e4.jpg",
-      "tags": [
-        "decomp",
-        "mobile",
-        "doom",
-        "brew",
-        "decompilation"
-      ]
+      "tags": ["decomp", "mobile", "doom", "brew", "decompilation"]
     },
     {
       "name": "Doom II RPG",
@@ -83,13 +72,7 @@
       "repository": "Erick194/DoomIIRPG-RE",
       "folderName": "DoomIIRPG-DoomIIRPGRE",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/e2ea312c6c0c186d4cc19a3c51db7e8e.jpg",
-      "tags": [
-        "decomp",
-        "mobile",
-        "doom",
-        "brew",
-        "decompilation"
-      ]
+      "tags": ["decomp", "mobile", "doom", "brew", "decompilation"]
     },
     {
       "name": "Wolfenstein RPG",
@@ -97,13 +80,7 @@
       "repository": "Erick194/WolfensteinRPG-RE",
       "folderName": "WolfensteinRPG-WolfensteinRPGRE",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/8789f10478d60db06c15865d59a1c949.jpg",
-      "tags": [
-        "decomp",
-        "mobile",
-        "wolfenstein",
-        "brew",
-        "decompilation"
-      ]
+      "tags": ["decomp", "mobile", "wolfenstein", "brew", "decompilation"]
     },
     {
       "name": "Initial D Arcade Stage 3",
@@ -126,12 +103,7 @@
       "repository": "yell0wsuit/cuttherope-dx",
       "folderName": "CutTheRope-CutTheRopeDX",
       "appIconUrl": "https://raw.githubusercontent.com/yell0wsuit/cuttherope-dx/refs/heads/main/distribution/icons/CutTheRopeDXIcon.ico",
-      "tags": [
-        "decomp",
-        "mobile",
-        "cut the rope",
-        "decompilation"
-      ]
+      "tags": ["decomp", "mobile", "cut the rope", "decompilation"]
     },
     {
       "name": "OutRun",
@@ -139,11 +111,7 @@
       "repository": "Endprodukt/cannonball-dx",
       "folderName": "OutRun-CannonBallDX",
       "appIconUrl": "https://raw.githubusercontent.com/Endprodukt/cannonball-dx/refs/heads/master/screenshots/CannonballDX.png",
-      "tags": [
-        "recreation",
-        "arcade",
-        "outrun"
-      ]
+      "tags": ["recreation", "arcade", "outrun"]
     }
   ]
 }

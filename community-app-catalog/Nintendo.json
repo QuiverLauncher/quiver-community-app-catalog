@@ -46,9 +46,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ]
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Banjo-Kazooie",
@@ -64,9 +62,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ],
+      "filesToAdd": ["portable.txt"],
       "mods": {
         "path": "mods",
         "sources": [
@@ -106,9 +102,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ],
+      "filesToAdd": ["portable.txt"],
       "mods": {
         "path": "mods",
         "sources": [
@@ -133,9 +127,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ]
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Castlevania: Legacy of Darkness",
@@ -151,9 +143,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ]
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Chameleon Twist",
@@ -169,9 +159,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ]
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Dinosaur Planet",
@@ -187,9 +175,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ],
+      "filesToAdd": ["portable.txt"],
       "mods": {
         "path": "mods",
         "sources": [
@@ -214,9 +200,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ]
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Duke Nukem: Zero Hour",
@@ -233,9 +217,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ]
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Harvest Moon 64",
@@ -251,9 +233,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ],
+      "filesToAdd": ["portable.txt"],
       "mods": {
         "path": "mods",
         "sources": [
@@ -278,9 +258,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ],
+      "filesToAdd": ["portable.txt"],
       "mods": {
         "path": "mods",
         "sources": [
@@ -308,9 +286,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ]
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Mega Man 64",
@@ -326,9 +302,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ],
+      "filesToAdd": ["portable.txt"],
       "mods": {
         "path": "mods",
         "sources": [
@@ -353,9 +327,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ],
+      "filesToAdd": ["portable.txt"],
       "mods": {
         "path": "mods",
         "sources": [
@@ -380,9 +352,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ]
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Pokemon Snap",
@@ -390,13 +360,7 @@
       "repository": "JackandBeans/Snap64Recomp",
       "folderName": "PokemonSnap-Snap64Recomp",
       "appIconUrl": "https://raw.githubusercontent.com/JackandBeans/Snap64Recomp/refs/heads/main/src/snap64.ico",
-      "tags": [
-        "recomp",
-        "n64",
-        "pokemon",
-        "nintendo",
-        "recompilation"
-      ]
+      "tags": ["recomp", "n64", "pokemon", "nintendo", "recompilation"]
     },
     {
       "name": "Pokemon Emerald",
@@ -491,9 +455,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ]
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Snowboard Kids 2",
@@ -511,9 +473,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ]
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Space Station Silicon Valley",
@@ -521,16 +481,8 @@
       "repository": "Cellenseres/SSSV_Recomp",
       "folderName": "SpaceStationSiliconValley-SpaceStationSiliconValleyRecompiled",
       "appIconUrl": "https://raw.githubusercontent.com/Cellenseres/SSSV_Recomp/refs/heads/main/icons/512.png",
-      "tags": [
-        "recomp",
-        "n64",
-        "nintendo",
-        "nintendo 64",
-        "recompilation"
-      ],
-      "filesToAdd": [
-        "portable.txt"
-      ]
+      "tags": ["recomp", "n64", "nintendo", "nintendo 64", "recompilation"],
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Star Fox 64",
@@ -547,9 +499,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ],
+      "filesToAdd": ["portable.txt"],
       "mods": {
         "path": "mods",
         "sources": [
@@ -626,13 +576,7 @@
       "repository": "coccofresco/TriAevum",
       "folderName": "TheLegendOfZeldaOcarinaOfTime3D-TriAevum",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/62e69a2705de56b496dff524ba8f9b6a.jpg",
-      "tags": [
-        "recomp",
-        "3ds",
-        "zelda",
-        "nintendo",
-        "recompilation"
-      ]
+      "tags": ["recomp", "3ds", "zelda", "nintendo", "recompilation"]
     },
     {
       "name": "The Legend of Zelda: Majora's Mask",
@@ -851,9 +795,7 @@
         "nintendo 64",
         "decompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ]
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Diddy Kong Racing",
@@ -951,13 +893,7 @@
       "repository": "mstan/MetroidPrimeHuntersRecomp",
       "folderName": "MetroidPrimeHunters-MetroidPrimeHuntersRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/a4dbd8807f9a6cfe63c78e84676df2ee.png",
-      "tags": [
-        "recomp",
-        "nds",
-        "metroid",
-        "nintendo",
-        "recompilation"
-      ]
+      "tags": ["recomp", "nds", "metroid", "nintendo", "recompilation"]
     },
     {
       "name": "Pokemon Red / Blue / Yellow / Gold / Silver / Crystal",
@@ -974,9 +910,7 @@
         "game boy",
         "game boy color"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ],
+      "filesToAdd": ["portable.txt"],
       "mods": {
         "path": "mods",
         "layout": "folderPerMod",
@@ -1069,13 +1003,7 @@
       "repositorySource": "gitlab",
       "folderName": "TheLegendOfZeldaLinksAwakeningDX-LADXHDUpdated",
       "appIconUrl": "https://gitlab.com/bighead.0/ladxhd_updated/-/raw/main/icon/windows/Icon.ico",
-      "tags": [
-        "recreation",
-        "gbc",
-        "zelda",
-        "nintendo",
-        "game boy color"
-      ]
+      "tags": ["recreation", "gbc", "zelda", "nintendo", "game boy color"]
     },
     {
       "name": "Sonic and the Secret Rings",
@@ -1083,12 +1011,7 @@
       "repository": "kumapauz/project-reignition",
       "folderName": "SonicAndTheSecretRings-ProjectReignition",
       "appIconUrl": "https://raw.githubusercontent.com/kumapauz/project-reignition/refs/heads/dev/v0.5.0/Project/interface/boot/Icon.png",
-      "tags": [
-        "recreation",
-        "wii",
-        "sonic",
-        "nintendo"
-      ]
+      "tags": ["recreation", "wii", "sonic", "nintendo"]
     },
     {
       "name": "Mega Man X",
@@ -1240,9 +1163,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ]
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Donkey Kong 64",
@@ -1258,9 +1179,7 @@
         "nintendo 64",
         "recompilation"
       ],
-      "filesToAdd": [
-        "portable.txt"
-      ]
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Donkey Kong Country",
@@ -1327,13 +1246,7 @@
       "repository": "GTTeancum/SotE-Recomp",
       "folderName": "StarWarsShadowsOfTheEmpire-ShadowsOfTheEmpireRecompiled",
       "appIconUrl": "https://raw.githubusercontent.com/GTTeancum/SotE-Recomp/refs/heads/main/Star%20Wars%20-%20Shadows%20of%20the%20Empire.ico",
-      "tags": [
-        "recomp",
-        "n64",
-        "star wars",
-        "nintendo",
-        "recompilation"
-      ]
+      "tags": ["recomp", "n64", "star wars", "nintendo", "recompilation"]
     },
     {
       "name": "Mario Kart: Super Circuit",
@@ -1356,13 +1269,7 @@
       "repository": "patchzyy/Wiicompiled",
       "folderName": "MarioKartWii-MarioKartWiiCompiled",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/f2eee54b9c0e3679492300ee8bb3510b.jpg",
-      "tags": [
-        "recomp",
-        "wii",
-        "mario kart",
-        "nintendo",
-        "recompilation"
-      ]
+      "tags": ["recomp", "wii", "mario kart", "nintendo", "recompilation"]
     },
     {
       "name": "Mario Kart Wii",
@@ -1370,13 +1277,7 @@
       "repository": "chrissotraidis/kartpad",
       "folderName": "MarioKartWii-KartPad",
       "appIconUrl": "https://raw.githubusercontent.com/chrissotraidis/kartpad/refs/heads/main/branding/exports/KartPadIcon-1024.png",
-      "tags": [
-        "recomp",
-        "wii",
-        "mario kart",
-        "nintendo",
-        "recompilation"
-      ]
+      "tags": ["recomp", "wii", "mario kart", "nintendo", "recompilation"]
     },
     {
       "name": "Paper Mario",

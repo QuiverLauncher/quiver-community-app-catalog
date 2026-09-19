@@ -59,6 +59,14 @@ When adding a new list file, add a matching entry to `index.json` with a new GUI
 
 Quiver Launcher compares each list's `"version"` on refresh and shows **Review changes** when a list differs from the last acknowledged version.
 
+Pull requests run JSON validation automatically. The check rejects invalid JSON, duplicate object keys, tabs, odd indentation, and trailing whitespace. Changed JSON files are also checked with Prettier.
+
+To format JSON locally, run:
+
+```sh
+npx --yes prettier@3.5.3 --write index.json community-app-catalog/*.json
+```
+
 ## Contributing
 
 Open a pull request with your app entry in the appropriate brand list file and a version bump. Each app needs:
