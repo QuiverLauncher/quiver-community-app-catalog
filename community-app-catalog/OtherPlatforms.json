@@ -1,7 +1,7 @@
 {
   "name": "Other Platforms",
   "description": "Other platform ports and recompilations",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "preferredTagFilters": [
     "recomp",
     "decomp",
@@ -112,6 +112,14 @@
       "folderName": "OutRun-CannonBallDX",
       "appIconUrl": "https://raw.githubusercontent.com/Endprodukt/cannonball-dx/refs/heads/master/screenshots/CannonballDX.png",
       "tags": ["recreation", "arcade", "outrun"]
+    },
+    {
+      "name": "Plants vs. Zombies 2",
+      "project": "PvZ2 Gardendless",
+      "repository": "Gzh0821/pvzg_site",
+      "folderName": "PlantsVsZombies2-PvZ2Gardendless",
+      "appIconUrl": "https://raw.githubusercontent.com/Gzh0821/pvzg_site/refs/heads/main/src/.vuepress/public/pvz_logo-round.webp",
+      "tags": ["recreation", "mobile", "windows", "plants vs zombies"]
     }
   ]
 }

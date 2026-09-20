@@ -1,7 +1,7 @@
 {
   "name": "Xbox",
   "description": "Xbox platform ports and recreations",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/542b9ce5413bbceea136fecb513df4c3.png",
   "preferredTagFilters": [
     "recomp",
@@ -87,14 +87,61 @@
       }
     },
     {
+      "name": "Dead Rising 2: Case Zero",
+      "project": "Dead Rising 2: Case Zero Xenon Recomp",
+      "repository": "wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
+      "folderName": "DeadRising2CaseZero-DeadRising2CaseZeroXenonRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/75814c64e85b3353a7a71fcf0d3c4a2f.png",
+      "tags": [
+        "recomp",
+        "x360",
+        "dead rising",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Dead Rising 2: Case West",
+      "project": "Dead Rising 2: Case West Xenon Recomp",
+      "repository": "wivi514/Dead_Rising_2_Case_West_Xenon_Recomp",
+      "folderName": "DeadRising2CaseWest-DeadRising2CaseWestXenonRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e3195d1988d8a72e21431743e703b106.png",
+      "tags": [
+        "recomp",
+        "x360",
+        "dead rising",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
+    },
+    {
       "name": "Ninja Gaiden II",
       "project": "Ninja's Dawn",
       "repository": "TheSaltTrader/Ninja-s-Dawn---A-Ninja-Gaiden-2-Recompilation-Project",
       "folderName": "NinjaGaidenII-NinjasDawn",
+      "appIconUrl": "https://raw.githubusercontent.com/TheSaltTrader/Ninja-s-Dawn---A-Ninja-Gaiden-2-Recompilation-Project/refs/heads/main/resources/ng2_256.png",
       "tags": [
         "recomp",
         "x360",
         "ninja gaiden",
+        "rexglue",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Destroy All Humans! Path of the Furon",
+      "project": "ReDahm",
+      "repository": "masterspike52/redahm",
+      "folderName": "DestroyAllHumansPathOfTheFuron-ReDahm",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/ebaba2c9861586319f00447a7f72e74e.jpg",
+      "tags": [
+        "recomp",
+        "x360",
+        "destroy all humans",
         "rexglue",
         "xbox",
         "xbox 360",

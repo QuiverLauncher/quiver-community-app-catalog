@@ -1,7 +1,7 @@
 {
   "name": "PlayStation",
   "description": "PlayStation platform ports and recreations",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/d5fe8b674699f542537c1694284ea239.png",
   "preferredTagFilters": [
     "recomp",
@@ -305,6 +305,21 @@
       ]
     },
     {
+      "name": "Mega Man X2",
+      "project": "MegaManX2Recomp",
+      "repository": "mstan/MegaManX2Recomp",
+      "folderName": "MegaManX2-MegaManX2Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/d7a80c680dfc37508db25e08c2d25ab7.jpg",
+      "tags": [
+        "recomp",
+        "ps1",
+        "mega man",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
       "name": "Mega Man X4",
       "project": "MegaManX4Recomp",
       "repository": "mstan/MegaManX4Recomp",
@@ -470,6 +485,21 @@
       ]
     },
     {
+      "name": "Sly Cooper and the Thievius Raccoonus",
+      "project": "ProjectCane",
+      "repository": "theclub654/ProjectCane",
+      "folderName": "SlyCooperAndTheThieviusRaccoonus-ProjectCane",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/8eb695a10fe8e13fd08bfdd03e4e5f46.png",
+      "tags": [
+        "decomp",
+        "ps2",
+        "sly cooper",
+        "playstation",
+        "playstation 2",
+        "decompilation"
+      ]
+    },
+    {
       "name": "Marvel vs. Capcom: Clash of Super Heroes",
       "project": "Marvel vs. Capcom: Clash of Super Heroes Recompiled",
       "repository": "TechnicallyComputers/Marvel-vs.-Capcom-Clash-of-Super-Heroes-Recomp",
@@ -616,6 +646,21 @@
         "tekken",
         "playstation",
         "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Ace Combat 5: The Unsung War",
+      "project": "Ace Combat 5 Recompilation",
+      "repository": "sal063/Ace-Combat-5-Static-recompilation",
+      "folderName": "AceCombat5-AceCombat5StaticRecompilation",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/2b05fc2f191ac4598f9d107cd9046693.jpg",
+      "tags": [
+        "recomp",
+        "ps2",
+        "ace combat",
+        "playstation",
+        "playstation 2",
         "recompilation"
       ]
     },
