@@ -892,7 +892,8 @@
         "nintendo",
         "super nintendo entertainment system",
         "recompilation"
-      ]
+      ],
+      "filesToAdd": ["portable.txt"]
     },
     {
       "name": "Pikmin",
