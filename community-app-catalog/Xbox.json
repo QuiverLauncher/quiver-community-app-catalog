@@ -1,7 +1,7 @@
 {
   "name": "Xbox",
   "description": "Xbox platform ports and recreations",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/542b9ce5413bbceea136fecb513df4c3.png",
   "preferredTagFilters": [
     "recomp",
@@ -229,6 +229,22 @@
       ]
     },
     {
+      "name": "Fable II",
+      "project": "Fable II Recompiled",
+      "repository": "himdo/Fable-2-Recomp",
+      "folderName": "FableII-FableIIRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/5a223a996fa1891b00dfd3aef5d07315.jpg",
+      "tags": [
+        "recomp",
+        "x360",
+        "fable",
+        "rexglue",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
+    },
+    {
       "name": "Blue Dragon",
       "project": "re:Blue",
       "repository": "zolaware/reblue",
@@ -288,6 +304,38 @@
         "recomp",
         "x360",
         "exit",
+        "rexglue",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Naughty Bear Gold Edition",
+      "project": "ReStuff",
+      "repository": "MaxDeadBear/NaughtyBear_ReStuff",
+      "folderName": "NaughtyBearGoldEdition-ReStuff",
+      "appIconUrl": "https://raw.githubusercontent.com/MaxDeadBear/NaughtyBear_ReStuff/refs/heads/main/icon/DASHICON.ico",
+      "tags": [
+        "recomp",
+        "x360",
+        "naughty bear",
+        "rexglue",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "The Simpsons Game",
+      "project": "The Simpsons Game Recompiled",
+      "repository": "YesterMester/TheSimpsonsGameRecomp",
+      "folderName": "TheSimpsonsGame-TheSimpsonsGameRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/a9bc2b113fb78e00a2ce7f64253a90d1.jpg",
+      "tags": [
+        "recomp",
+        "x360",
+        "the simpsons",
         "rexglue",
         "xbox",
         "xbox 360",

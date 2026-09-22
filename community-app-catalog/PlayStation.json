@@ -1,7 +1,7 @@
 {
   "name": "PlayStation",
   "description": "PlayStation platform ports and recreations",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/d5fe8b674699f542537c1694284ea239.png",
   "preferredTagFilters": [
     "recomp",
@@ -126,6 +126,21 @@
       ]
     },
     {
+      "name": "Wipeout XL",
+      "project": "Wipeout XL Recompiled",
+      "repository": "NJH-1001/Wipeout2K97XL",
+      "folderName": "WipeoutXL-WipeoutXLRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/2ff2f869fa05d2a0b0bc52a7f87dbb19.jpg",
+      "tags": [
+        "recomp",
+        "ps1",
+        "wipeout",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
       "name": "Legend of Dragoon",
       "project": "Severed Chains",
       "repository": "Legend-of-Dragoon-Modding/Severed-Chains",
@@ -165,6 +180,21 @@
         "recomp",
         "ps1",
         "castlevania",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Final Fantasy Tactics",
+      "project": "Final Fantasy Tactics Recompiled",
+      "repository": "NJH-1001/FinFanTacRecomp",
+      "folderName": "FinalFantasyTactics-FinalFantasyTacticsRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/7f77c0d7268aebee53525fad0fff7c8e.jpg",
+      "tags": [
+        "recomp",
+        "ps1",
+        "final fantasy",
         "playstation",
         "playstation 1",
         "recompilation"
@@ -674,6 +704,21 @@
         "recomp",
         "psp",
         "ace combat",
+        "playstation",
+        "playstation portable",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Monster Hunter Portable 3rd HD Ver.",
+      "project": "Yakumo",
+      "repository": "TeamGDB/Yakumo",
+      "folderName": "MonsterHunterPortable3rdHDVer-Yakumo",
+      "appIconUrl": "https://raw.githubusercontent.com/TeamGDB/Yakumo/refs/heads/main/profiles/mhp3rd/packaging/windows/emblem.ico",
+      "tags": [
+        "recomp",
+        "psp",
+        "monster hunter",
         "playstation",
         "playstation portable",
         "recompilation"

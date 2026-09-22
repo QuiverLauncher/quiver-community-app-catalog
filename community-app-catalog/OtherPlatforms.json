@@ -1,7 +1,7 @@
 {
   "name": "Other Platforms",
   "description": "Other platform ports and recompilations",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "preferredTagFilters": [
     "recomp",
     "decomp",
@@ -56,6 +56,20 @@
         "sonic",
         "sega mega drive",
         "sega genesis"
+      ]
+    },
+    {
+      "name": "Sonic CD (2011)",
+      "project": "RSDKv3 Decompilation",
+      "repository": "RSDKModding/RSDKv3-Decompilation",
+      "folderName": "SonicCD-RSDKv3Decompilation",
+      "appIconUrl": "https://raw.githubusercontent.com/RSDKModding/RSDKv3-Decompilation/refs/heads/master/RSDKv3/RSDKv3%20Decomp%20Icon.ico",
+      "tags": [
+        "decomp",
+        "mobile",
+        "sonic",
+        "sega",
+        "decompilation"
       ]
     },
     {

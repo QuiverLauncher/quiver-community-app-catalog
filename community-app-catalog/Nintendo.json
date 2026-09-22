@@ -1,7 +1,7 @@
 {
   "name": "Nintendo",
   "description": "Nintendo platform ports and recreations",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e260cb761dbaa59a1568e65c872a0951.png",
   "preferredTagFilters": [
     "recomp",
@@ -850,6 +850,21 @@
       ]
     },
     {
+      "name": "GoldenEye 007",
+      "project": "GoldenEye 007 PC Port",
+      "repository": "jkdansereau/goldeneye-pc-port",
+      "folderName": "GoldenEye007-GoldenEye007PCPort",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/3aa0e06f5d0831831891f8b65e6a4b63.jpg",
+      "tags": [
+        "decomp",
+        "n64",
+        "james bond",
+        "nintendo",
+        "nintendo 64",
+        "decompilation"
+      ]
+    },
+    {
       "name": "F-Zero X",
       "project": "G-Diffuser",
       "repository": "Zorkats/G-Diffuser",
@@ -862,6 +877,21 @@
         "nintendo",
         "nintendo 64",
         "decompilation"
+      ]
+    },
+    {
+      "name": "F-Zero",
+      "project": "FZeroSNESRecomp",
+      "repository": "mstan/FZeroSNESRecomp",
+      "folderName": "FZero-FZeroSNESRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/0974d5b9ac0702a57abe57049f579dee.jpg",
+      "tags": [
+        "recomp",
+        "snes",
+        "f-zero",
+        "nintendo",
+        "super nintendo entertainment system",
+        "recompilation"
       ]
     },
     {
