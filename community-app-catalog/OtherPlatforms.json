@@ -1,7 +1,7 @@
 {
   "name": "Other Platforms",
   "description": "Other platform ports and recompilations",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "preferredTagFilters": [
     "recomp",
     "decomp",
@@ -64,13 +64,7 @@
       "repository": "RSDKModding/RSDKv3-Decompilation",
       "folderName": "SonicCD-RSDKv3Decompilation",
       "appIconUrl": "https://raw.githubusercontent.com/RSDKModding/RSDKv3-Decompilation/refs/heads/master/RSDKv3/RSDKv3%20Decomp%20Icon.ico",
-      "tags": [
-        "decomp",
-        "mobile",
-        "sonic",
-        "sega",
-        "decompilation"
-      ]
+      "tags": ["decomp", "mobile", "sonic", "sega", "decompilation"]
     },
     {
       "name": "Doom RPG",
@@ -134,6 +128,14 @@
       "folderName": "PlantsVsZombies2-PvZ2Gardendless",
       "appIconUrl": "https://raw.githubusercontent.com/Gzh0821/pvzg_site/refs/heads/main/src/.vuepress/public/pvz_logo-round.webp",
       "tags": ["recreation", "mobile", "windows", "plants vs zombies"]
+    },
+    {
+      "name": "Club Penguin",
+      "project": "Waddle Forever",
+      "repository": "nhaar/Waddle-Forever",
+      "folderName": "ClubPenguin-WaddleForever",
+      "appIconUrl": "https://raw.githubusercontent.com/nhaar/Waddle-Forever/refs/heads/main/assets/icon.png",
+      "tags": ["recreation", "pc", "club penguin", "recreation"]
     }
   ]
 }
