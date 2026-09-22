@@ -967,6 +967,21 @@
       ]
     },
     {
+      "name": "The Legend of Zelda: A Link to the Past [Zelda 3 Reborn]",
+      "project": "Z3R Launcher",
+      "repository": "xander-haj/Z3R-Launcher",
+      "folderName": "TheLegendOfZeldaALinkToThePast-Z3RLauncher",
+      "appIconUrl": "https://raw.githubusercontent.com/xander-haj/Z3R-Launcher/main/resources/icons/icon.png",
+      "tags": [
+        "decomp",
+        "snes",
+        "zelda",
+        "nintendo",
+        "super nintendo entertainment system",
+        "decompilation"
+      ]
+    },
+    {
       "name": "Super Metroid",
       "project": "snesrev: Super Metroid Launcher",
       "repository": "RadzPrower/Super-Metroid-Launcher",
