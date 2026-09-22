@@ -236,22 +236,6 @@
       "filesToAdd": ["portable.txt"]
     },
     {
-      "name": "F-Zero",
-      "project": "FZeroSNESRecomp",
-      "repository": "mstan/FZeroSNESRecomp",
-      "folderName": "FZero-FZeroSNESRecomp",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/c2e0571e50a35b2719088134251d0aa7.png",
-      "tags": [
-        "recomp",
-        "snes",
-        "f-zero",
-        "nintendo",
-        "super nintendo entertainment system",
-        "recompilation"
-      ],
-      "filesToAdd": ["portable.txt"]
-    },
-    {
       "name": "Harvest Moon 64",
       "project": "Harvest Moon 64: Recompiled",
       "repository": "HarvestMoon64Recomp/HarvestMoon64Recomp",
