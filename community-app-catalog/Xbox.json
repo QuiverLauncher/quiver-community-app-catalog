@@ -1,7 +1,7 @@
 {
   "name": "Xbox",
   "description": "Xbox platform ports and recreations",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/542b9ce5413bbceea136fecb513df4c3.png",
   "preferredTagFilters": [
     "recomp",
@@ -13,6 +13,54 @@
   ],
   "hiddenTagFilters": ["xbox", "decompilation", "recompilation", "xbox 360"],
   "apps": [
+    {
+      "name": "Dragon Ball Z: Budokai",
+      "project": "Dragon Ball Z Budokai HD Recompiled",
+      "repository": "WistfulHopes/DBZ1",
+      "folderName": "DragonBallZBudokai-DragonBallZBudokaiHDRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/61501c1f651da2774f8bb6bbec365d84.png",
+      "tags": [
+        "recomp",
+        "x360",
+        "rexglue",
+        "dragon ball",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Kameo: Elements of Power",
+      "project": "Kameo RePowered",
+      "repository": "birabittoh/KameoRePowered",
+      "folderName": "KameoElementsOfPower-KameoRePowered",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/6a9396f51fadc08f4d40ccf873451a4e.png",
+      "tags": [
+        "recomp",
+        "x360",
+        "rexglue",
+        "kameo",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Sega Superstars Tennis",
+      "project": "Sega Superstars Tennis ReMatch",
+      "repository": "m1ndcrap/Sega-Superstars-Tennis-ReMatch",
+      "folderName": "SegaSuperstarsTennis-SegaSuperstarsTennisReMatch",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/ef5495c586679c353c85c0595e23239b.png",
+      "tags": [
+        "recomp",
+        "x360",
+        "rexglue",
+        "sega",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
+    },
     {
       "name": "Sonic Unleashed",
       "project": "Unleashed Recompiled",
@@ -43,6 +91,22 @@
       "folderName": "Skate3-Skate3Recompiled",
       "appIconUrl": "https://raw.githubusercontent.com/mchughalex/skate3recomp/refs/heads/main/banner.png",
       "tags": ["recomp", "x360", "skate", "xbox", "xbox 360", "recompilation"]
+    },
+    {
+      "name": "The Simpsons Game",
+      "project": "The Simpsons Game Recompiled",
+      "repository": "YesterMester/TheSimpsonsGameRecomp",
+      "folderName": "TheSimpsonsGame-TheSimpsonsGameRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5bfa902eb40df91bce9872dbb4d72e0c.png",
+      "tags": [
+        "recomp",
+        "x360",
+        "rexglue",
+        "simpsons",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
     },
     {
       "name": "WWE SmackDown vs. Raw 2007",

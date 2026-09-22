@@ -1,7 +1,7 @@
 {
   "name": "Nintendo",
   "description": "Nintendo platform ports and recreations",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e260cb761dbaa59a1568e65c872a0951.png",
   "preferredTagFilters": [
     "recomp",
@@ -48,7 +48,6 @@
       ],
       "filesToAdd": ["portable.txt"]
     },
-
     {
       "name": "Automobili Lamborghini",
       "project": "Automobili Lamborghini: Recompiled",
@@ -237,6 +236,22 @@
       "filesToAdd": ["portable.txt"]
     },
     {
+      "name": "F-Zero",
+      "project": "FZeroSNESRecomp",
+      "repository": "mstan/FZeroSNESRecomp",
+      "folderName": "FZero-FZeroSNESRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/c2e0571e50a35b2719088134251d0aa7.png",
+      "tags": [
+        "recomp",
+        "snes",
+        "f-zero",
+        "nintendo",
+        "super nintendo entertainment system",
+        "recompilation"
+      ],
+      "filesToAdd": ["portable.txt"]
+    },
+    {
       "name": "Harvest Moon 64",
       "project": "Harvest Moon 64: Recompiled",
       "repository": "HarvestMoon64Recomp/HarvestMoon64Recomp",
@@ -260,6 +275,35 @@
           }
         ]
       }
+    },
+    {
+      "name": "Kirby's Return to Dream Land",
+      "project": "Kirby Wii Recomp",
+      "repository": "ExpansionPak/ModernGekko",
+      "folderName": "KirbysReturnToDreamLand-KirbyWiiRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/ca6ab34959489659f8c3776aaf1f8efd.png",
+      "tags": [
+        "recomp",
+        "wii",
+        "kirby",
+        "nintendo",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Pokemon Platinum",
+      "project": "pokeplatinum",
+      "repository": "cybervisi0n/pokeplatinum",
+      "folderName": "PokemonPlatinum-Pokeplatinum",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5dfa4ce99b375f7b4ecd1c464c3c9234.png",
+      "tags": [
+        "decomp",
+        "nds",
+        "pokemon",
+        "nintendo",
+        "nintendo ds",
+        "decompilation"
+      ]
     },
     {
       "name": "The Legend of Zelda: Majora's Mask and Ocarina of Time",
@@ -493,7 +537,6 @@
       ],
       "filesToAdd": ["portable.txt"]
     },
-
     {
       "name": "Snowboard Kids 2",
       "project": "Snowboard Kids 2: Recompiled",
@@ -771,6 +814,20 @@
         "nintendo",
         "nintendo 64",
         "decompilation"
+      ]
+    },
+    {
+      "name": "Super Mario 64 [Infinite Mario 64 Ever]",
+      "project": "Infinite Mario 64 Ever",
+      "repository": "Brawmario/infinite-mario-64-ever",
+      "folderName": "SuperMario64-InfiniteMario64Ever",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/9b1347ebd516dd05210fcc9e8291b9d1.png",
+      "tags": [
+        "recreation",
+        "n64",
+        "mario",
+        "nintendo",
+        "nintendo 64"
       ]
     },
     {
@@ -1330,6 +1387,21 @@
         "nintendo",
         "nintendo 64",
         "decompilation"
+      ]
+    },
+    {
+      "name": "Paper Mario",
+      "project": "Paper Mario ReCut",
+      "repository": "SMCGames/Paper-Mario-ReCut",
+      "folderName": "PaperMario-PaperMarioReCut",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/877a9ba7a98f75b90a9d49f53f15a858.ico",
+      "tags": [
+        "recomp",
+        "n64",
+        "paper mario",
+        "nintendo",
+        "nintendo 64",
+        "recompilation"
       ]
     },
     {

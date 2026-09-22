@@ -1,7 +1,7 @@
 {
   "name": "PlayStation",
   "description": "PlayStation platform ports and recreations",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/d5fe8b674699f542537c1694284ea239.png",
   "preferredTagFilters": [
     "recomp",
@@ -107,6 +107,66 @@
         "gran turismo",
         "sony",
         "playstation",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Street Fighter EX Plus Alpha",
+      "project": "Plus Alpha Recomp",
+      "repository": "guimaraf/plusalpha-recomp",
+      "folderName": "StreetFighterEXPlusAlpha-PlusAlphaRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/07d78c45b9d828ca146f4b49e85ec74f.jpg",
+      "tags": [
+        "recomp",
+        "ps1",
+        "street fighter",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Street Fighter EX2 Plus",
+      "project": "Street Fighter EX2 Plus Recompiled",
+      "repository": "strider973/Street-Fighter-EX2-Plus-Recompiled",
+      "folderName": "StreetFighterEX2Plus-StreetFighterEX2PlusRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/a665f0d07d17ae69eb2deb1812fbf336.jpg",
+      "tags": [
+        "recomp",
+        "ps1",
+        "street fighter",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Street Fighter III: 3rd Strike [3SX]",
+      "project": "3SX",
+      "repository": "crowded-street/3sx",
+      "folderName": "StreetFighterIII3rdStrike-3SX",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/52967a3855319c3e7ac5731091dda96e.png",
+      "tags": [
+        "recreation",
+        "ps2",
+        "street fighter",
+        "playstation",
+        "playstation 2",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Street Fighter III: 3rd Strike [3SXW]",
+      "project": "3SXW",
+      "repository": "guimaraf/3sxw",
+      "folderName": "StreetFighterIII3rdStrike-3SXW",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/52967a3855319c3e7ac5731091dda96e.png",
+      "tags": [
+        "recreation",
+        "ps2",
+        "street fighter",
+        "playstation",
+        "playstation 2",
         "recompilation"
       ]
     },
