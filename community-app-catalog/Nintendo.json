@@ -1,8 +1,8 @@
      {,
       "name": "Ogre Battle 64: Person of Lordly Caliber",
-      "project": "Ogre Battle 64: Recomp",
+      "project": "Ogre Battle 64: Recompiled",
       "repository": "lfarroco/ogre-battle-64-recomp",
-      "folderName": "OgreBattle64Recomp",
+      "folderName": "OgreBattle64-OgreBattle64Recomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/2b9a508509d588b461f8d7c49b7c092a.jpg",
       "tags": [
         "recomp",
