@@ -395,21 +395,6 @@
       ]
     },
     {
-      "name": "Mega Man X2",
-      "project": "MegaManX2Recomp",
-      "repository": "mstan/MegaManX2Recomp",
-      "folderName": "MegaManX2-MegaManX2Recomp",
-      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/d7a80c680dfc37508db25e08c2d25ab7.jpg",
-      "tags": [
-        "recomp",
-        "ps1",
-        "mega man",
-        "playstation",
-        "playstation 1",
-        "recompilation"
-      ]
-    },
-    {
       "name": "Mega Man X4",
       "project": "MegaManX4Recomp",
       "repository": "mstan/MegaManX4Recomp",

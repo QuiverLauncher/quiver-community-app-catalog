@@ -1153,6 +1153,21 @@
       ]
     },
     {
+      "name": "Mega Man X2",
+      "project": "MegaManX2SNESRecomp",
+      "repository": "mstan/MegaManX2Recomp",
+      "folderName": "MegaManX2-MegaManX2SNESRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/d7a80c680dfc37508db25e08c2d25ab7.jpg",
+      "tags": [
+        "recomp",
+        "snes",
+        "mega man",
+        "nintendo",
+        "super nintendo entertainment system",
+        "recompilation"
+      ]
+    },
+    {
       "name": "Virtual Pro Wrestling 64",
       "project": "Virtual Pro Wrestling 64: Recompiled",
       "repository": "jessetbh/VPW64Recomp",
