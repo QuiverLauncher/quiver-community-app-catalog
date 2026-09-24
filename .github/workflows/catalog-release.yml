@@ -1,0 +1,31 @@
+name: Prepare catalog release
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'community-app-catalog/*.json'
+      - '.github/catalog-release-state.json'
+      - '.github/workflows/catalog-release.yml'
+      - 'scripts/catalog-release.py'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: catalog-release
+  cancel-in-progress: false
+jobs:
+  release:
+    if: github.repository == 'tgeorgiadis/quiver-community-app-catalog' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: main
+      - name: Prepare or update release PR (never merge)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/catalog-release.py publish
