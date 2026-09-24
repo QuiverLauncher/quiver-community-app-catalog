@@ -1,7 +1,7 @@
 {
   "name": "Nintendo",
   "description": "Nintendo platform ports and recreations",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e260cb761dbaa59a1568e65c872a0951.png",
   "preferredTagFilters": [
     "recomp",
@@ -266,13 +266,7 @@
       "repository": "ExpansionPak/ModernGekko",
       "folderName": "KirbysReturnToDreamLand-KirbyWiiRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/ca6ab34959489659f8c3776aaf1f8efd.png",
-      "tags": [
-        "recomp",
-        "wii",
-        "kirby",
-        "nintendo",
-        "recompilation"
-      ]
+      "tags": ["recomp", "wii", "kirby", "nintendo", "recompilation"]
     },
     {
       "name": "Pokemon Platinum",
@@ -806,13 +800,7 @@
       "repository": "Brawmario/infinite-mario-64-ever",
       "folderName": "SuperMario64-InfiniteMario64Ever",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/9b1347ebd516dd05210fcc9e8291b9d1.png",
-      "tags": [
-        "recreation",
-        "n64",
-        "mario",
-        "nintendo",
-        "nintendo 64"
-      ]
+      "tags": ["recreation", "n64", "mario", "nintendo", "nintendo 64"]
     },
     {
       "name": "Super Smash Bros.",
@@ -1506,6 +1494,21 @@
         "metroid",
         "nintendo",
         "super nintendo entertainment system",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Pilotwings 64",
+      "project": "Pilotwings 64: Recompiled",
+      "repository": "danielgomesvieira2000/pilotwings-64-recomp",
+      "folderName": "Pilotwings64-Pilotwings64Recompiled",
+      "appIconUrl": "https://raw.githubusercontent.com/danielgomesvieira2000/pilotwings-64-recomp/ce3634ad4be6ee5666dec2cd0bbcc35c4571bf29/assets/AppIcon.ico",
+      "tags": [
+        "recomp",
+        "n64",
+        "pilotwings",
+        "nintendo",
+        "nintendo 64",
         "recompilation"
       ]
     }
