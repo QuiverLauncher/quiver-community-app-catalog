@@ -1533,13 +1533,23 @@
       "repository": "riseio/project-bumble",
       "folderName": "BuckBumble-ProjectBumble",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/06cf23f9dc49c09112741fcc60c6f6db.jpg",
+      "tags": ["recreation", "n64", "buck bumble", "nintendo", "nintendo 64"]
+    },
+    {
+      "name": "Dr. Mario",
+      "project": "DrMarioNesRecomp",
+      "repository": "mstan/DrMarioNesRecomp",
+      "folderName": "DrMario-DrMarioNesRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/grid/4bf486c3a04b32aa9dec6c542d7011ac.png",
       "tags": [
-        "recreation",
-        "n64",
-        "buck bumble",
+        "recomp",
+        "nes",
+        "mario",
         "nintendo",
-        "nintendo 64"
-      ]
+        "nintendo entertainment system",
+        "recompilation"
+      ],
+      "catalogId": "qcat_c082b5f5-867c-4083-b82b-ff886555120c"
     }
   ]
 }
