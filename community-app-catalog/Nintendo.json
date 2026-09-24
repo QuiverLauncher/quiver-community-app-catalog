@@ -1528,18 +1528,18 @@
       ]
     },
     {
-  "name": "Buck Bumble",
-  "project": "Project Bumble",
-  "repository": "riseio/project-bumble",
-  "folderName": "BuckBumble-ProjectBumble",
-  "appIconUrl": "https://cdn2.steamgriddb.com/thumb/06cf23f9dc49c09112741fcc60c6f6db.jpg",
-  "tags": [
-    "recreation",
-    "n64",
-    "buck bumble",
-    "nintendo",
-    "nintendo 64"
-  ]
-}
+      "name": "Buck Bumble",
+      "project": "Project Bumble",
+      "repository": "riseio/project-bumble",
+      "folderName": "BuckBumble-ProjectBumble",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/06cf23f9dc49c09112741fcc60c6f6db.jpg",
+      "tags": [
+        "recreation",
+        "n64",
+        "buck bumble",
+        "nintendo",
+        "nintendo 64"
+      ]
+    }
   ]
 }
