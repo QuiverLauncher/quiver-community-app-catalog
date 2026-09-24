@@ -248,6 +248,40 @@ Rules:
 | PC, Sega, mobile, and other non-brand lists | `OtherPlatforms.json` |
 
 
+## Catalog release batches
+
+App-addition PRs preserve list versions. After they merge, **Prepare catalog
+release** opens or updates one **Release catalog updates** PR. Merge that PR
+manually when the batch is ready; each changed list gets one patch bump, regardless
+of how many apps were added. The release PR is intentionally refreshed while open,
+so review its latest diff before merging. App proposal branches remain immutable.
+
+`.github/catalog-release-state.json` records the contents last covered by a version.
+The workflow updates that record in the release PR, never directly on main. It
+ignores formatting-only changes and content already recorded by a release PR.
+Avoid manual bumps: a legacy app PR that still bumps its version may receive one
+additional bump in the next release, ensuring later app changes are signalled too.
+Do not manually edit the release state. The initial state represents the catalogs
+at setup time.
+
+Catalog files on main still become publicly readable as soon as app PRs merge;
+batching the version bump is an update signal, not a staging or access boundary.
+The platform-metadata publisher continues running unchanged.
+
+The release workflow uses only this repository's short-lived `GITHUB_TOKEN` with
+contents/PR write access. It never uses either Discord GitHub App or their keys,
+pushes main, approves PRs, or merges PRs. Enable **Allow GitHub Actions to create
+and approve pull requests** in repository Actions settings to allow PR creation;
+the workflow does not exercise approval permission. GitHub may ask you to approve
+validation workflows on a bot-created release PR before checks can run.
+
+Existing JSON validation allows app additions with unchanged versions. Release validation checks PRs
+against current main for only the expected version bumps and release state. Update
+a stale release by running **Prepare catalog release** on main again; do not merge
+it with failing checks. Use branch protection requiring current checks if you want
+GitHub to enforce that policy. Disabling this workflow stops release preparation;
+`workflow_dispatch` on main retries a failed run. No new long-lived secrets are needed.
+
 ## Shared platform metadata
 
 `platform-index.json` is generated browsing metadata for community catalogs. The
