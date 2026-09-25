@@ -145,6 +145,15 @@
       "appIconUrl": "https://raw.githubusercontent.com/OpenRCT2/OpenRCT2/5f823fa85d00494b596aa7020c46844166efae08/resources/logo/icon.ico",
       "tags": ["recreation", "pc", "rollercoaster tycoon"],
       "catalogId": "qcat_982474da-37b4-432c-b9e6-eff8b4c54c7b"
+    },
+    {
+      "name": "LEGO Island",
+      "project": "isle-portable",
+      "repository": "isledecomp/isle-portable",
+      "folderName": "LEGOIsland-IslePortable",
+      "appIconUrl": "https://raw.githubusercontent.com/isledecomp/isle-portable/377e64799035a0910cc00b179e9bb1033ebab939/packaging/ios/isle/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+      "tags": ["decomp", "pc", "lego", "decompilation"],
+      "catalogId": "qcat_878db0f7-5376-4219-a47a-da56e5cab86b"
     }
   ]
 }
