@@ -1550,6 +1550,15 @@
         "recompilation"
       ],
       "catalogId": "qcat_c082b5f5-867c-4083-b82b-ff886555120c"
+    },
+    {
+      "name": "Super Smash Bros. Melee",
+      "project": "Melee Unlocked",
+      "repository": "Hero88go/melee-unlocked",
+      "folderName": "SuperSmashBrosMelee-MeleeUnlocked",
+      "appIconUrl": "https://raw.githubusercontent.com/Hero88go/melee-unlocked/4d1aa844e918ca67277fa63d84063577bfc35715/port/app/melee_unlocked.ico",
+      "tags": ["recomp", "gcn", "nintendo", "gamecube", "recompilation"],
+      "catalogId": "qcat_4c4f516b-ae93-422a-9738-e06e7d84bb2e"
     }
   ]
 }
