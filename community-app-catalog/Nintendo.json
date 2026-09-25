@@ -1575,6 +1575,22 @@
         "recompilation"
       ],
       "catalogId": "qcat_902fb62a-ccae-465c-aea9-d1c28c8cb380"
+    },
+    {
+      "name": "Mega Man Zero",
+      "project": "MegaManZeroRecomp",
+      "repository": "mstan/MegaManZeroRecomp",
+      "folderName": "MegaManZero-MegaManZeroRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/grid/1237732c5da246fa3a7fd7e32f33d7eb.png",
+      "tags": [
+        "recomp",
+        "gba",
+        "mega man",
+        "nintendo",
+        "game boy advance",
+        "recompilation"
+      ],
+      "catalogId": "qcat_6b14ef8d-db54-4447-b4ef-705d41918ac5"
     }
   ]
 }
