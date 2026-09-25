@@ -154,6 +154,15 @@
       "appIconUrl": "https://raw.githubusercontent.com/isledecomp/isle-portable/377e64799035a0910cc00b179e9bb1033ebab939/packaging/ios/isle/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
       "tags": ["decomp", "pc", "lego", "decompilation"],
       "catalogId": "qcat_878db0f7-5376-4219-a47a-da56e5cab86b"
+    },
+    {
+      "name": "Cave Story",
+      "project": "doukutsu-rs",
+      "repository": "doukutsu-rs/doukutsu-rs",
+      "folderName": "CaveStory-DoukutsuRs",
+      "appIconUrl": "https://raw.githubusercontent.com/doukutsu-rs/doukutsu-rs/7e6870e55f072e3f056dc1eef3974a1af26c7aae/res/crabsue-icon.ico",
+      "tags": ["recreation", "pc", "cave story"],
+      "catalogId": "qcat_946a441e-2fb8-4e41-b422-ff3b5bddc095"
     }
   ]
 }
