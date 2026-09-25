@@ -163,6 +163,15 @@
       "appIconUrl": "https://raw.githubusercontent.com/doukutsu-rs/doukutsu-rs/7e6870e55f072e3f056dc1eef3974a1af26c7aae/res/crabsue-icon.ico",
       "tags": ["recreation", "pc", "cave story"],
       "catalogId": "qcat_946a441e-2fb8-4e41-b422-ff3b5bddc095"
+    },
+    {
+      "name": "Carmageddon",
+      "project": "Dethrace",
+      "repository": "dethrace-labs/dethrace",
+      "folderName": "Carmageddon-Dethrace",
+      "appIconUrl": "https://raw.githubusercontent.com/dethrace-labs/dethrace/08aa5df3efd159e0d2c8e175f5827a5d248cb09b/packaging/windows/dethrace.ico",
+      "tags": ["decomp", "pc", "carmageddon", "decompilation"],
+      "catalogId": "qcat_88656a6a-bfe2-4f50-839a-8e882cb9ed86"
     }
   ]
 }
