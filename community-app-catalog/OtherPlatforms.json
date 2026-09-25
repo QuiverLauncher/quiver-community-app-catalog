@@ -136,6 +136,15 @@
       "folderName": "ClubPenguin-WaddleForever",
       "appIconUrl": "https://raw.githubusercontent.com/nhaar/Waddle-Forever/refs/heads/main/assets/icon.png",
       "tags": ["recreation", "pc", "club penguin", "recreation"]
+    },
+    {
+      "name": "RollerCoaster Tycoon 2",
+      "project": "OpenRCT2",
+      "repository": "OpenRCT2/OpenRCT2",
+      "folderName": "RollerCoasterTycoon2-OpenRCT2",
+      "appIconUrl": "https://raw.githubusercontent.com/OpenRCT2/OpenRCT2/5f823fa85d00494b596aa7020c46844166efae08/resources/logo/icon.ico",
+      "tags": ["recreation", "pc", "rollercoaster tycoon"],
+      "catalogId": "qcat_982474da-37b4-432c-b9e6-eff8b4c54c7b"
     }
   ]
 }
