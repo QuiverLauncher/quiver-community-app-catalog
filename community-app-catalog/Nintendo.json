@@ -1559,6 +1559,22 @@
       "appIconUrl": "https://raw.githubusercontent.com/Hero88go/melee-unlocked/4d1aa844e918ca67277fa63d84063577bfc35715/port/app/melee_unlocked.ico",
       "tags": ["recomp", "gcn", "nintendo", "gamecube", "recompilation"],
       "catalogId": "qcat_4c4f516b-ae93-422a-9738-e06e7d84bb2e"
+    },
+    {
+      "name": "Dragon Ball Z: Buu's Fury",
+      "project": "Dragon Ball Z: Buu's Fury Recomp",
+      "repository": "mstan/DragonBallZBuusFuryRecomp",
+      "folderName": "DragonBallZBuusFury-DragonBallZBuusFuryRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/grid/9c1aaf0c7323d741035d507cb3fbf529.png",
+      "tags": [
+        "recomp",
+        "gba",
+        "dragon ball",
+        "nintendo",
+        "game boy advance",
+        "recompilation"
+      ],
+      "catalogId": "qcat_902fb62a-ccae-465c-aea9-d1c28c8cb380"
     }
   ]
 }
