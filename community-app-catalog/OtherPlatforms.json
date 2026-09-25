@@ -172,6 +172,15 @@
       "appIconUrl": "https://raw.githubusercontent.com/dethrace-labs/dethrace/08aa5df3efd159e0d2c8e175f5827a5d248cb09b/packaging/windows/dethrace.ico",
       "tags": ["decomp", "pc", "carmageddon", "decompilation"],
       "catalogId": "qcat_88656a6a-bfe2-4f50-839a-8e882cb9ed86"
+    },
+    {
+      "name": "X-COM: Apocalypse",
+      "project": "OpenApoc",
+      "repository": "OpenApoc/OpenApoc",
+      "folderName": "XCOMApocalypse-OpenApoc",
+      "appIconUrl": "https://raw.githubusercontent.com/OpenApoc/OpenApoc/d06cc102905e35d0e703d2d25204fd4ab2795e12/apocicon.ico",
+      "tags": ["recreation", "pc", "x-com"],
+      "catalogId": "qcat_61adaf0b-f9c9-42e1-97d6-e148a207f591"
     }
   ]
 }
