@@ -1591,6 +1591,22 @@
         "recompilation"
       ],
       "catalogId": "qcat_6b14ef8d-db54-4447-b4ef-705d41918ac5"
+    },
+    {
+      "name": "Super Bomberman",
+      "project": "BombermanRecomp",
+      "repository": "elliotttate/BombermanRecomp",
+      "folderName": "SuperBomberman-BombermanRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/grid/f68182f0d9f2375e95e95ce760db4b74.png",
+      "tags": [
+        "recomp",
+        "snes",
+        "bomberman",
+        "nintendo",
+        "super nintendo entertainment system",
+        "recompilation"
+      ],
+      "catalogId": "qcat_c3a24354-eda0-4f1c-9a58-3e0729c071d8"
     }
   ]
 }
