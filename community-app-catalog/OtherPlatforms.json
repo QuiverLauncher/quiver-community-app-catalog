@@ -181,6 +181,15 @@
       "appIconUrl": "https://raw.githubusercontent.com/OpenApoc/OpenApoc/d06cc102905e35d0e703d2d25204fd4ab2795e12/apocicon.ico",
       "tags": ["recreation", "pc", "x-com"],
       "catalogId": "qcat_61adaf0b-f9c9-42e1-97d6-e148a207f591"
+    },
+    {
+      "name": "Jazz Jackrabbit",
+      "project": "OpenJazz",
+      "repository": "AlisterT/openjazz",
+      "folderName": "JazzJackrabbit-OpenJazz",
+      "appIconUrl": "https://raw.githubusercontent.com/AlisterT/openjazz/a1626f4edd4a7af72c54103021790c56d8ecfced/res/windows/OpenJazz.ico",
+      "tags": ["recreation", "pc", "jazz jackrabbit"],
+      "catalogId": "qcat_751a9054-5aa4-49cd-a4a3-354f55c84e6c"
     }
   ]
 }
