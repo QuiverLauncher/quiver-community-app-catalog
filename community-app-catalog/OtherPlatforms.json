@@ -190,6 +190,15 @@
       "appIconUrl": "https://raw.githubusercontent.com/AlisterT/openjazz/a1626f4edd4a7af72c54103021790c56d8ecfced/res/windows/OpenJazz.ico",
       "tags": ["recreation", "pc", "jazz jackrabbit"],
       "catalogId": "qcat_751a9054-5aa4-49cd-a4a3-354f55c84e6c"
+    },
+    {
+      "name": "Command & Conquer: Red Alert, Tiberian Dawn & Dune 2000",
+      "project": "OpenRA",
+      "repository": "OpenRA/OpenRA",
+      "folderName": "CommandConquerRedAlertTiberianDawnDune2000-OpenRA",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/3a1dd98341fafc1dfe9bcf36360e6b84/32/256x256.png",
+      "tags": ["recreation", "pc", "command & conquer", "dune"],
+      "catalogId": "qcat_5dc886c7-3859-4a66-abde-6585b73a3338"
     }
   ]
 }
