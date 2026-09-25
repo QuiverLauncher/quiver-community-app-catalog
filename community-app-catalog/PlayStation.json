@@ -813,6 +813,22 @@
         "playstation",
         "recompilation"
       ]
+    },
+    {
+      "name": "Tomb Raider I-III",
+      "project": "TRX",
+      "repository": "LostArtefacts/TRX",
+      "folderName": "TombRaiderIIII-TRX",
+      "appIconUrl": "https://raw.githubusercontent.com/LostArtefacts/TRX/84100e5617f8864f8e9fadf24eec8f2de91029ff/tools/installer/TRX_Installer/Resources/icon.ico",
+      "tags": [
+        "decomp",
+        "ps1",
+        "tomb raider",
+        "playstation",
+        "playstation 1",
+        "decompilation"
+      ],
+      "catalogId": "qcat_50383a23-47a0-4e6e-ab24-89bd34fb8f78"
     }
   ]
 }
